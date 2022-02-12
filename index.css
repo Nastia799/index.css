@@ -16,3 +16,16 @@ h1 {
     h3{
         color: red;
     }
+
+    .header__banner-subtext {
+        color:azure;
+
+    }
+
+    .new-arrivals__subtext:hover {
+font-weight: bold;
+    }
+    p::first-letter {
+        font-size: 2rem;
+    }
+    
